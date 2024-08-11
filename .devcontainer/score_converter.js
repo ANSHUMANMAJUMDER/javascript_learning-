@@ -14,3 +14,5 @@ let number = 12121;
 console.log(String(number));
 let NumberType = String(number);
 console.log(typeof(NumberType));
+
+// similarly can be done with boolean {Boolean}  
